@@ -1,2 +1,6 @@
-# Network-Management-System-Object-Oriented-Design-and-Analysis-
-Master's Course Work at The University of Texas at Dallas
+
+# Network Management System 
+
+Project description
+
+Performed Extensive Requirement Analysis and Designed fully-dressed Use Cases, Domain Models, Object-Oriented Class Diagrams, System Sequence Diagrams using UML tools for the User Interface, Business Logic and Technical Services of a Network Management System
